@@ -1,0 +1,39 @@
+#bgc{
+				position: absolute;
+				width: 1376px;
+				height: 768px;
+				background-color: #FAFAFA;
+			}
+			.logo h3{
+				color: #B32424;
+				position: relative;
+				margin: 20px;
+				left: 80px;
+			}
+			.logo a{
+				text-decoration: none;
+				color: #777777;
+			}
+			.register{
+				position: absolute;
+				left: 336px;
+				width: 700px;
+				background-color: white;
+			}
+			div input{
+				line-height: 26px;
+				width: 300px;
+				padding: 8px;
+				margin: 10px;
+			}
+			#btn{
+				font-size: 18px;
+				color: white;
+				letter-spacing: 8px;
+				background-color: #B32424;
+			}
+			.footer{
+				position: relative;
+				top: 700px;
+				text-align: center;
+			}

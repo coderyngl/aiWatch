@@ -1,0 +1,31 @@
+			.footer{
+				position: relative;
+				top: 100px;
+				text-align: center;
+			}
+			.person{
+				text-align: center;
+				width: 600px;
+				height: 400px;
+			}
+			.person h2{
+				text-indent: 4em;
+			}
+			.person ul{
+				font-size: 18px;
+				list-style: none;
+			}
+			.person ul li{
+				margin: 15px;
+				font-size: 20px;
+				line-height: 30px;
+			}
+			.btn{
+				color: white;
+				background-color: #B72B2B;
+			}
+			.person ul li input{
+				margin-left: 20px;
+				letter-spacing: 1px;
+				text-indent: 1em;
+			}

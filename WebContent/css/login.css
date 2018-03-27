@@ -1,0 +1,43 @@
+			.logo h3{
+				position: relative;
+				margin: 20px;
+				left: 80px;
+				color: #B32424;
+			}
+			.login{
+				background-color:#FFFFFF;
+				position: absolute;
+				top: 120px;
+				left: 150px;
+				width: 320px;
+				height: 300px;
+			}
+			.login h4{
+				line-height: 40px;
+				font-size: 18px;
+				text-align: center;
+			}
+			 form input{
+			 	margin-top: 30px;
+				width: 280px;
+				margin: 20px;
+				padding-left: 15px;
+				line-height: 30px;
+			}
+			.submit{
+				color: white;
+				width: 110px;
+				letter-spacing: 10px;
+				background-color: #CC5252;
+			}
+			.register{
+				color: white;
+				width: 110px;
+				letter-spacing: 10px;
+				background-color: #CC5252;
+			}
+			.footer{
+				position: relative;
+				top: 100px;
+				text-align: center;
+			}

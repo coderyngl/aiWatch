@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="aiwatch:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/aiwatch_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="aiwatch" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="aiwatch/web/Web" />
+    </root>
+  </artifact>
+</component>

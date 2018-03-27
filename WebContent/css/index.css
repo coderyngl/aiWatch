@@ -1,0 +1,65 @@
+			.left_menu{
+				height: 374px;
+				font-size: 16px;
+				position: absolute;
+				top: 71px;
+				left: 150px;
+				background-color: #332424;
+			}
+			.left_menu dd{
+				color: #CCCCCC;
+				line-height: 50px;
+				text-indent: 1em;
+			}
+			.left_menu dt{
+				color: #CCCCCC;
+				line-height: 45px;
+				text-indent: 1em;
+			}
+			.left_menu dd:nth-child(odd){
+				background: #402D2D;
+			}
+			.left_menu dd:hover{
+				background-color: #F1EFEF;
+			}
+			
+			.w-image:hover{
+				transform: scale(1.05);
+				text-decoration:none;
+			}
+			a .w-price{
+				corlor:red;
+				font-size: 20px;
+			}
+			.watch {
+				float:left;
+				width:300px;
+				padding:10px;
+			}
+			.watch ul{
+				list-style:none;
+			}
+			.hotsell{
+				position: relative;
+				padding-top:30px;
+				left:550px;
+				font-size:32px;
+				color:#A90707;
+			}
+			.recommend{
+				text-indent:1em;
+				position: relative;
+				padding-top:30px;
+				left:550px;
+				font-size:32px;
+				color:#A90707;
+			}
+			.footer{
+				position: absolute;
+				left: 500px;
+				bottom: -960px;
+				text-align: center;
+			}
+			
+			
+			
